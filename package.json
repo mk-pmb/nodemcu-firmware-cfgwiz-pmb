@@ -1,0 +1,28 @@
+{ "name": "nodemcu-firmware-cfgwiz-pmb",
+  "version": "0.0.1",
+  "description": "Helps me decide and write configuration for building NodeMCU firmware.",
+  "keywords": [],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/nodemcu-firmware-cfgwiz-pmb/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/nodemcu-firmware-cfgwiz-pmb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/nodemcu-firmware-cfgwiz-pmb/issues"
+  },
+  "contributors": [],
+
+  "private": false, "license": "ISC",
+
+  "scripts": { "test": "nodejs test/all.js" },
+  "directories": { "test": "test" },
+
+  "dependencies": {},
+  "devDependencies": {
+  },
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
