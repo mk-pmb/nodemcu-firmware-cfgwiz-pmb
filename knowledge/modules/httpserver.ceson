@@ -1,0 +1,10 @@
+{
+  "descr_short": "Callback-based HTTP 1.1 server.",
+  "categories": [
+    "network/protocol/http",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "lua",
+}

@@ -1,0 +1,10 @@
+{
+  "descr_short": "Access HMC5883L three axis digital compasses.",
+  "categories": [
+    "sensor/compass",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

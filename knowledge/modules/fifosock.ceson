@@ -1,0 +1,10 @@
+{
+  "descr_short": "Wrapper for net.socket's send method, ensures in-order transmission.",
+  "categories": [
+    "network/generic",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "lua",
+}

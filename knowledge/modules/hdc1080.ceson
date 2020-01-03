@@ -1,0 +1,12 @@
+{
+  "descr_short": "Access HDC1080 digital humidity and temperature sensors (low power, high accuracy).",
+  "categories": [
+    "sensor/humid",
+    "sensor/temp",
+    "sensor/weather",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

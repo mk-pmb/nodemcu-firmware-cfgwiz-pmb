@@ -1,0 +1,10 @@
+{
+  "descr_short": "Convert Lua values to/from C structs.",
+  "categories": [
+    "datafmt/c_struct",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

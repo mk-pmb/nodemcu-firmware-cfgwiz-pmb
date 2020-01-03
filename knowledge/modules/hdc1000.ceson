@@ -1,0 +1,13 @@
+{
+  "descr_short": "Access HDC1000 (and maybe HDC1008) I²C digital humidity and temperature sensors.",
+  "categories": [
+    "bus/i2c",
+    "sensor/humid",
+    "sensor/temp",
+    "sensor/weather",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "lua",
+}

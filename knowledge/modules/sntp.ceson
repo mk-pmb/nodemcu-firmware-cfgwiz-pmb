@@ -1,0 +1,10 @@
+{
+  "descr_short": "Simple Network Time Procotol (SNTP) client.",
+  "categories": [
+    "network/protocol/sntp",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

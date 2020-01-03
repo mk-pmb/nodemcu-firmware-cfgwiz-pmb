@@ -1,0 +1,10 @@
+{
+  "descr_short": "Deprecated, superseded by sjson.",
+  "categories": [
+    "warning/deprecated",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

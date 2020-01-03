@@ -1,0 +1,10 @@
+{
+  "descr_short": "Graphics library with support for color TFT displays.",
+  "categories": [
+    "periph/display",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

@@ -1,0 +1,10 @@
+{
+  "descr_short": "Help people configure their WiFi credentials. aka Captive Portal aka WiFi Manager.",
+  "categories": [
+    "network/medium/wifi",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

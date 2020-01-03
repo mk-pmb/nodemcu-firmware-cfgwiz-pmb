@@ -1,0 +1,10 @@
+{
+  "descr_short": "Convert data from/to JSON.",
+  "categories": [
+    "datafmt/json",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

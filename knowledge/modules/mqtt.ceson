@@ -1,0 +1,10 @@
+{
+  "descr_short": "MQ Telemetry Transport (MQTT) v3.1.1 client.",
+  "categories": [
+    "network/protocol/mqtt",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

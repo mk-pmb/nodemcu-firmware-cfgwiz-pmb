@@ -1,0 +1,10 @@
+{
+  "descr_short": "Simplified FTP server for the ESP8266.",
+  "categories": [
+    "network/protocol/ftp",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "lua",
+}

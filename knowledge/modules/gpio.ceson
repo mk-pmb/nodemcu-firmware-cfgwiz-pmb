@@ -1,0 +1,10 @@
+{
+  "descr_short": "Access the General Purpose Input/Output subsystem.",
+  "categories": [
+    "io_port/gpio",
+  ],
+  "caveats_short": "Read about pin numbering!",
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

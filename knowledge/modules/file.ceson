@@ -1,0 +1,11 @@
+{
+  "descr_short": "Flat file system access to SPIFFS and (if enabled) FAT partitions.",
+  "categories": [
+    "database/fat",
+    "database/spiffs",
+  ],
+  "caveats_short": "No directories. Limited path lenghts.",
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

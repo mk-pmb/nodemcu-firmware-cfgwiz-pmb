@@ -1,0 +1,11 @@
+{
+  "descr_short": "Easy but insecure WiFi setup.",
+  "categories": [
+    "security/access_control",
+    "network/medium/wifi",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

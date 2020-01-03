@@ -1,0 +1,11 @@
+{
+  "descr_short": "Access HX711 load cell amplifiers/ADCs (analog-digital converters).",
+  "categories": [
+    "sensor/adc",
+    "sensor/voltage",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

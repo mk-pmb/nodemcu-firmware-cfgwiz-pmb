@@ -1,0 +1,11 @@
+{
+  "descr_short": "Bloom filters, for probabilistic set membership detection.",
+  "categories": [
+    "math/algo",
+    "math/set_theory",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

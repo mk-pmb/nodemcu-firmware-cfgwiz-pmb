@@ -1,0 +1,10 @@
+{
+  "descr_short": "Flexible, generic FIFOs built around Lua tables and callback functions.",
+  "categories": [
+    "datafmt/fifo",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "lua",
+}

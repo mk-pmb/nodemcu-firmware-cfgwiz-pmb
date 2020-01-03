@@ -1,0 +1,10 @@
+{
+  "descr_short": "Wireless network (WiFi, WLAN) driver.",
+  "categories": [
+    "network/medium/wifi",
+  ],
+  "caveats_short": "Read about timeouts and suspending!",
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

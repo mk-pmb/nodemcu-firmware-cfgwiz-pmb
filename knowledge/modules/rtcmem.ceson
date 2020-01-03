@@ -1,0 +1,10 @@
+{
+  "descr_short": "Access the RTC (Real Time Clock) memory.",
+  "categories": [
+    "sys/time",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

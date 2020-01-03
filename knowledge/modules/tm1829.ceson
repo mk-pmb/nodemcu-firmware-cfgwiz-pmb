@@ -1,0 +1,10 @@
+{
+  "descr_short": "Access Titan Micro tm1829 LED controllers and connected LED strips.",
+  "categories": [
+    "periph/light",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

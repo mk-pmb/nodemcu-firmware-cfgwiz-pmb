@@ -1,0 +1,12 @@
+{
+  "descr_short": "Control Somfy blinds via 433.42 MHz RF transmitter.",
+  "categories": [
+    "brand/somfy",
+    "periph/motor",
+    "rf/433_mhz",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

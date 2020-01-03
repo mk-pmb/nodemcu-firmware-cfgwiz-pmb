@@ -1,0 +1,11 @@
+{
+  "descr_short": "Access XPT2046 touch controllers, used by several cheap displays.",
+  "categories": [
+    "input/touchscreen",
+    "periph/display",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

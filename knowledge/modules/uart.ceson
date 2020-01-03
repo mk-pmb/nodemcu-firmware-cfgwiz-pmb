@@ -1,0 +1,11 @@
+{
+  "descr_short": "Access the serial port aka Universal Asynchronous Receiver/Transmitter.",
+  "categories": [
+    "io_port/serial",
+    "io_port/uart",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

@@ -1,0 +1,10 @@
+{
+  "descr_short": "Access LM92 I²C ±0.33C 12bit+sign temperature sensors.",
+  "categories": [
+    "bus/i2c",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "lua",
+}

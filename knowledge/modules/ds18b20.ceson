@@ -1,0 +1,10 @@
+{
+  "descr_short": "Access DS18B20 1-Wire digital thermometers.",
+  "categories": [
+    "sensor/temp",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "lua",
+}

@@ -1,0 +1,13 @@
+{
+  "descr_short": "Networking library. TCP, UDP, DNS.",
+  "categories": [
+    "network/generic",
+    "network/protocol/dns",
+    "network/protocol/tcp",
+    "network/protocol/udp",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

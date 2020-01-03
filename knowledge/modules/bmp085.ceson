@@ -1,0 +1,11 @@
+{
+  "descr_short": "Access BMP{085|BMP180} temperature and pressure sensors.",
+  "categories": [
+    "sensor/press",
+    "sensor/temp",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

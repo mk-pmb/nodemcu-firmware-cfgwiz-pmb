@@ -1,0 +1,10 @@
+{
+  "descr_short": "Access ADXL345 triple axis accelerometers.",
+  "categories": [
+    "sensor/accelerometer",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

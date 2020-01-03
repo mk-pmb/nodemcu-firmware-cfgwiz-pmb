@@ -1,0 +1,13 @@
+{
+  "descr_short": "Convert color notations from/to HSV and RGB(W).",
+  "categories": [
+    "datafmt/color",
+    "datafmt/colorhsv",
+    "datafmt/color/rgb",
+    "datafmt/color/rgbw",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

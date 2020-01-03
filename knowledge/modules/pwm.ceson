@@ -1,0 +1,10 @@
+{
+  "descr_short": "Pulse-width modulation. See also pwm2.",
+  "categories": [
+    "io_port/pwm",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

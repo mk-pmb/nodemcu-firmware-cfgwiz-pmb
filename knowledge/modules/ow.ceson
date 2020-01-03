@@ -1,0 +1,10 @@
+{
+  "descr_short": "One-Wire, 1-Wire.",
+  "categories": [
+    "bus/1wire",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

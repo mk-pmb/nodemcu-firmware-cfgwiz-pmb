@@ -1,0 +1,15 @@
+{
+  "descr_short": "Access BM{E|P}280 temperature/air pressure/humidity sensors (Bosch Sensortec).",
+  "categories": [
+    "brand/bosch",
+    "brand/sensortec",
+    "sensor/humidity",
+    "sensor/press",
+    "sensor/temp",
+    "sensor/weather",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

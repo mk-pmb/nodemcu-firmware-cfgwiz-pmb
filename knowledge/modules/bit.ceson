@@ -1,0 +1,10 @@
+{
+  "descr_short": "Bit manipulation on 32bit integers.",
+  "categories": [
+    "math/binary",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

@@ -1,0 +1,10 @@
+{
+  "descr_short": "Access DS3231 I²C real-time clocks.",
+  "categories": [
+    "bus/i2c",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "lua",
+}

@@ -1,0 +1,10 @@
+{
+  "descr_short": "A FIFO storage intended for sensor readings.",
+  "categories": [
+    "database/rtcfifo",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

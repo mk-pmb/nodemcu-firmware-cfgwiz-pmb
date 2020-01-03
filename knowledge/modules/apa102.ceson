@@ -1,0 +1,10 @@
+{
+  "descr_short": "Access APA102 RGB LEDs, similar to addressable WS2812 LEDs.",
+  "categories": [
+    "periph/light",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

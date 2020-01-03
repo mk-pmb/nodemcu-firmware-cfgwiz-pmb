@@ -1,0 +1,11 @@
+{
+  "descr_short": "Simple YeeLink.net client. Seems to be a japanese smart home product family with sensors and RGBW lights.",
+  "categories": [
+    "periph/light",
+    "sensor/unknown",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "lua",
+}

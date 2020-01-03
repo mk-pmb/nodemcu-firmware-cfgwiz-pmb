@@ -1,0 +1,10 @@
+{
+  "descr_short": "Stripped-down version of the SQLite database.",
+  "categories": [
+    "database/sqlite",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

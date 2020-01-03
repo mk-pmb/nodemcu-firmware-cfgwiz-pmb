@@ -1,0 +1,11 @@
+{
+  "descr_short": "Access TCS34725 colour/light sensors (Adafruit).",
+  "categories": [
+    "brand/adafruit",
+    "sensor/light",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

@@ -1,0 +1,11 @@
+{
+  "descr_short": "Read email via IMAP 4rev1 protocol.",
+  "categories": [
+    "network/email",
+    "network/protocol/imap",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "lua",
+}

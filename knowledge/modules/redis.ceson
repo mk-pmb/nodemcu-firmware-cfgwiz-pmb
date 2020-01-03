@@ -1,0 +1,10 @@
+{
+  "descr_short": "Simple Redis client.",
+  "categories": [
+    "database/redis",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "lua",
+}

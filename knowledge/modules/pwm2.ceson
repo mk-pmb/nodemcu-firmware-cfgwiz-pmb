@@ -1,0 +1,10 @@
+{
+  "descr_short": "Pulse-width modulation on any GPIO pin(s).",
+  "categories": [
+    "io_port/pwm",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

@@ -1,0 +1,10 @@
+{
+  "descr_short": "Serial Peripheral Interface aka (H)SPI bus.",
+  "categories": [
+    "bus/spi",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

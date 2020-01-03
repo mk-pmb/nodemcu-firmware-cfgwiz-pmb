@@ -1,0 +1,11 @@
+{
+  "descr_short": "Access system-level features and info.",
+  "categories": [
+    "sys/cpu",
+    "sys/platform",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

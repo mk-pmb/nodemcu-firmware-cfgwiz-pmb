@@ -1,0 +1,10 @@
+{
+  "descr_short": "Advanced timekeeping support for NodeMCU.",
+  "categories": [
+    "sys/time",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

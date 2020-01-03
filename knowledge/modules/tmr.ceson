@@ -1,0 +1,10 @@
+{
+  "descr_short": "Simple timers, system counter and uptime.",
+  "categories": [
+    "event/time",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

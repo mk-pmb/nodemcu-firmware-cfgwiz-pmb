@@ -1,0 +1,11 @@
+{
+  "descr_short": "Access MCP4725 Digital to Analog Converters.",
+  "categories": [
+    "bus/i2c",
+    "periph/voltage",
+  ],
+  "caveats_short": "Read the warnings!",
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

@@ -1,0 +1,10 @@
+{
+  "descr_short": "Access MCP23008 I²C I/O expanders.",
+  "categories": [
+    "bus/i2c",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "lua",
+}

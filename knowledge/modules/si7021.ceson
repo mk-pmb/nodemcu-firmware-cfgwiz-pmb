@@ -1,0 +1,12 @@
+{
+  "descr_short": "Access Si7021 humidity and temperature sensors.",
+  "categories": [
+    "sensor/humid",
+    "sensor/temp",
+    "sensor/weather",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

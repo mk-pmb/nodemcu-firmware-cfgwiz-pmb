@@ -1,0 +1,10 @@
+{
+  "descr_short": "Cryptographic algorithms. Encrypt, decrypt, hash, verify.",
+  "categories": [
+    "crypto",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

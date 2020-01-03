@@ -1,0 +1,10 @@
+{
+  "descr_short": "Access WS2801 addressable RGB(W) LEDs.",
+  "categories": [
+    "periph/light",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

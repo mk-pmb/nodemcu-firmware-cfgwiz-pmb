@@ -1,0 +1,9 @@
+{
+  "descr_short": "Effects library for WS2812-compatible addressable RGB(W) LEDs.",
+  "categories": [
+    "periph/light",
+  ],
+  "caveats_short": false,
+  "deps_requires": ["color-utils"],
+  "impl_lang": "c",
+}

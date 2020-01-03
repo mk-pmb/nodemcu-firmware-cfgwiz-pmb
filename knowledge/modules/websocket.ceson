@@ -1,0 +1,10 @@
+{
+  "descr_short": "HTTP websocket client (RFC6455 version 13).",
+  "categories": [
+    "network/protocol/http",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

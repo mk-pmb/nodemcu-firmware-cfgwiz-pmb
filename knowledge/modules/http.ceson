@@ -1,0 +1,10 @@
+{
+  "descr_short": "Basic HTTP client.",
+  "categories": [
+    "network/protocol/http",
+  ],
+  "caveats_short": "Read about limitations!",
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

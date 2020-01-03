@@ -1,0 +1,12 @@
+{
+  "descr_short": "Access the in-built ADC (analog-digital converter).",
+  "categories": [
+    "input/adc",
+    "io_port/adc",
+    "sensor/voltage",
+  ],
+  "caveats_short": "Read about caveats!",
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

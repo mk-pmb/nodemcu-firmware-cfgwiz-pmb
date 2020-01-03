@@ -1,0 +1,10 @@
+{
+  "descr_short": "Encrypt your TCP sessions.",
+  "categories": [
+    "crypto",
+    "network/protocol/tls",
+  ],
+  "caveats_short": false,
+  "deps_requires": ["net"],
+  "impl_lang": "c",
+}

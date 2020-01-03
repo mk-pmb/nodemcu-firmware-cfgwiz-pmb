@@ -1,0 +1,10 @@
+{
+  "descr_short": "Multicast DNS (mDNS), as in Bonjour aka Zeroconf aka Avahi.",
+  "categories": [
+    "network/protocol/mdns",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

@@ -1,0 +1,10 @@
+{
+  "descr_short": "A software driver for the I²C serial 2-wire bus (aka I2C aka IIC).",
+  "categories": [
+    "bus/i2c",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

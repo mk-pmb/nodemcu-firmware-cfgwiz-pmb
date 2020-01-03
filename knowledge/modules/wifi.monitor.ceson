@@ -1,0 +1,10 @@
+{
+  "descr_short": "Access the monitor mode features of the ESP8266 chipset, including received WiFi management frames.",
+  "categories": [
+    "network/medium/wifi",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

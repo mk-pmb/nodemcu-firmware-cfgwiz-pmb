@@ -1,0 +1,10 @@
+{
+  "descr_short": "Access the sigma-delta hardware signal generator. Routes pulse-width modulation to most GPIO pins.",
+  "categories": [
+    "io_port/pwm",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

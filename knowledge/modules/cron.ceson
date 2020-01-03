@@ -1,0 +1,9 @@
+{
+  "descr_short": "A task scheduler.",
+  "categories": [
+    "event/time",
+  ],
+  "caveats_short": "Needs properly initialized rtctime!",
+  "deps_requires": ["rtctime"],
+  "impl_lang": "c",
+}

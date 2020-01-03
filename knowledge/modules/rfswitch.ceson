@@ -1,0 +1,12 @@
+{
+  "descr_short": "Access 433/315 MHz smart home devices.",
+  "categories": [
+    "periph/generic",
+    "rf/315_mhz",
+    "rf/433_mhz",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

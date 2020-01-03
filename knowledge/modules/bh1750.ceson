@@ -1,0 +1,11 @@
+{
+  "descr_short": "Access BH1750 I²C ambient light sensors.",
+  "categories": [
+    "bus/i2c",
+    "sensor/light",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "lua",
+}

@@ -1,0 +1,10 @@
+{
+  "descr_short": "Implements basics of the CoAP protocol.",
+  "categories": [
+    "network/protocol/coap",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

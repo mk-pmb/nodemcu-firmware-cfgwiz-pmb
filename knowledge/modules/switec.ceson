@@ -1,0 +1,10 @@
+{
+  "descr_short": "Access Switec X.27 (or compatible) instrument stepper motors.",
+  "categories": [
+    "periph/motor",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

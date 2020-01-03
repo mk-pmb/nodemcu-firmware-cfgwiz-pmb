@@ -1,0 +1,10 @@
+{
+  "descr_short": "Read the state of cheap rotary encoder switches.",
+  "categories": [
+    "input/rotary",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

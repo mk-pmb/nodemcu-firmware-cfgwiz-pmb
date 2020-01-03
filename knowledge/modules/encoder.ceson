@@ -1,0 +1,11 @@
+{
+  "descr_short": "Convert bytes to/from hex and base64.",
+  "categories": [
+    "datafmt/base64",
+    "datafmt/hex",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

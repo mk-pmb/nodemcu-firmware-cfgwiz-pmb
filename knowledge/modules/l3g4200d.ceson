@@ -1,0 +1,10 @@
+{
+  "descr_short": "Access L3G4200D three axis digital gyroscopes.",
+  "categories": [
+    "sensor/gyroscope",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}

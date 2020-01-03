@@ -1,0 +1,10 @@
+{
+  "descr_short": "Access ADS1{0|1}15 analog-to-digital converters via I²C, probably also ADS1{0|1}1{3|4}.",
+  "categories": [
+    "bus/i2c",
+  ],
+  "caveats_short": false,
+  "deps_requires": [
+  ],
+  "impl_lang": "c",
+}
